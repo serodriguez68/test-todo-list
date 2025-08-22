@@ -1,3 +1,4 @@
 - [ ] Eggs
 - [ ] Milk
 - [ ] Cheese
+- [ ] Pasta
