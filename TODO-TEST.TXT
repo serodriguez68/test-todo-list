@@ -1,2 +1,3 @@
 - [ ] Eggs
 - [ ] Milk
+- [ ] Cheese
